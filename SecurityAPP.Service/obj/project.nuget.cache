@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHET3j9ahj/W1yc6XUuW8+33ncxSKElqDFaNEonp5y/T0Hk1fSONFQ9Q2bvz1NokPoML2eCLYw/YDjNYVyzsEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\bnpp-security\\SecurityAPP.Service\\SecurityAPP.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
